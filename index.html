@@ -5,21 +5,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>My GitHub Site</title>
   <link rel="stylesheet" href="style.css"/>
+  <style>
+    .content-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 2em;
+    }
+
+    .text-content {
+      flex: 1 1 60%;
+      padding-right: 2em;
+    }
+
+    .image-content {
+      flex: 1 1 35%;
+      text-align: center;
+    }
+
+    .image-content img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>Welcome to My GitHub Website</h1>
     <nav>
       <a href="index.html">Home</a> |
-      <a href="Code.html">Code</a>
+      <a href="code.html">Code</a>
     </nav>
   </header>
 
   <main>
-    <section>
-      <h2>About This Site</h2>
-      <p>This is the homepage of my GitHub Pages site. Check out the Code page to see my projects!</p>
-    </section>
+    <div class="content-container">
+      <div class="text-content">
+        <h2>About This Site</h2>
+        <p>This is the homepage of my GitHub Pages site. Check out the Code page to see my projects!</p>
+      </div>
+      <div class="image-content">
+        <img src="your-image.jpg" alt="A descriptive alt text">
+      </div>
+    </div>
   </main>
 
   <footer>
@@ -27,3 +56,4 @@
   </footer>
 </body>
 </html>
+
