@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Presentations</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Presentations</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="code.html">Code</a>
+      <a href="presentations.html">Presentations</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>2025</h2>
+    <ul>
+      <li>"Exploring AI in Education" – , Berlin</li>
+      <li>"Machine Learning for Social Good" – OpenAI Research Forum</li>
+    </ul>
+
+    <h2>2024</h2>
+    <ul>
+      <li>"Designing Human-Centered AI" – UX Summit Online</li>
+      <li>"Ethics in Data Science" – University of Cambridge Seminar</li>
+    </ul>
+
+    <h2>2023</h2>
+    <ul>
+      <li>"Introduction to Neural Networks" – TechX Conference</li>
+    </ul>
+
+    <!-- Add more years and presentations as needed -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Your Name</p>
+  </footer>
+</body>
+</html>
