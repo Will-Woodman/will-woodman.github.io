@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Presentations</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Presentations</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="code.html">Code</a>
+      <a href="presentations.html">Presentations</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>2024</h2>
+    <ul>
+      <li> <a href="https://w3.math.uminho.pt/ISNPS2024">ISNPS 2024</a>, Braga, Portugal</li>
+      <li><a href="https://conferences.ncl.ac.uk/sagepgrconf/">SAGE PGR Conference</a>, Newcastle, UK</li>
+    </ul>
+
+    <h2>2022</h2>
+    <ul>
+     <li> <a href="https://w3.math.uminho.pt/ISNPS2024">ISNPS 2024</a>, Newcastle University Statistics Seminar, Newcastle, UK</li>
+    <li><a href="https://www.ida.liu.se/divisions/stima/seminarier/StatSeminars.shtml">Link</a>, Linköping University Seminar in Statistics, Linköping, Sweden</li>
+    <li><a href="https://www.ida.liu.se/divisions/stima/seminarier/StatSeminars.shtml">Link</a>, RSC 2022, Nottingham, UK</li>
+    </ul>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 William Woodman</p>
+  </footer>
+</body>
+</html>
