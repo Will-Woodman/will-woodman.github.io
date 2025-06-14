@@ -10,8 +10,8 @@
   <header>
     <h1>Presentations</h1>
     <nav>
-      <a href="index.html">Home</a>
-      <a href="code.html">Code</a>
+      <a href="index.html">Home</a> |
+      <a href="code.html">Code</a> |
       <a href="presentations.html">Presentations</a>
     </nav>
   </header>
